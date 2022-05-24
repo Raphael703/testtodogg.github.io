@@ -1,0 +1,60 @@
+html {
+    background-color: #EAE7DC;
+    font-weight: 900;
+    font-family: 'Bradley Hand', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+
+h1 {
+    border: 3px solid ;
+    background-color: #D8C3A5;
+    border-radius: 10px;
+    color:#595958
+}
+
+h3 {
+    color:#E98074;
+}
+
+.planned {
+    color:#8E8D8A;
+}
+
+.ready {
+    color:#8E8D8A;
+}
+
+button {
+    
+    background-color: #E98074;
+    border-radius: 10px;
+    font-family: 'Bradley Hand', 'Arial Narrow', Arial, sans-serif;
+    font-weight:700;
+    color:#4d4d4c;
+}
+input {
+    background-color: #D8C3A5;
+    border-radius: 10px;
+    font-family: 'Bradley Hand', 'Arial Narrow', Arial, sans-serif;
+    font-weight:700;
+    color:#4d4d4c;
+
+}
+
+.postscriptum {
+    font-family: 'Bradley Hand', 'Arial Narrow', Arial, sans-serif;
+    font-weight:700;
+    color:#4d4d4c;
+    font-size: 12px;
+}
+
+.delete-button {
+    background-image: url('./cross-for-delete.png');
+    width: 25px;
+}
+
+.done-button {
+    width: 25px;
+    background-image: url('./check-mark-for-done.png');
+}
